@@ -21,3 +21,21 @@ Testing
 
 - [pyUnit](https://wiki.python.org/moin/PyUnit) - Unit testing library for python.
 - [zopeTesting](www.python.org/pypi/zope.testing) - Provides a powerful test runner that supports test discovery and a wide range of options to control how tests are run and results reported. 
+- [quantifiedcode](https://www.quantifiedcode.com/) - for examine the code
+
+
+Cloud IDEs for python
+---------------------
+- [pythonanywhere](https://www.pythonanywhere.com/) - Host, run, and code Python in the cloud: PythonAnywhere.
+- [cloud9](https://c9.io/)   - Cloud9 combines a powerful online code editor with a full Ubuntu workspace in the cloud.
+- [codeanywhere](https://codeanywhere.com) - A complete toolset for web development. Enabling you to edit, collaborate and run your       projects from any device.
+- [koding](http://www.koding.com/)
+- [shiftedit](https://shiftedit.net/) - Free online IDE for web development with built-in FTP.
+- [pythonfiddle](http://pythonfiddle.com/) - The Python IDE for the web. Play around with and modify live example code. Share or         demonstrate solutions to problems.
+- [codebunk](https://codebunk.com/)
+
+
+
+
+
+
