@@ -1,1 +1,2 @@
 - [Caster.io](https://caster.io/) - Android development video tutorials from Android GDEs. Contains both free and paid tutorials.
+- [Udacity.com](https://www.udacity.com/courses/android) - Android development course from Udacity and in collaboration with Google.
