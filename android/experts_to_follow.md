@@ -29,4 +29,4 @@ Murat Yener | https://twitter.com/yenerm | https://plus.google.com/1140283383309
 Dmytro Danylyk | https://twitter.com/dmytrodanylyk | https://plus.google.com/114504530412269589324 |  |  | 
 Tyler Smith | https://twitter.com/tsmith | https://plus.google.com/109963283239374698932  | - | https://www.linkedin.com/in/tyvsmith | -
 Orhan Obut | https://twitter.com/orhanobut | https://plus.google.com/114663590489584785944 | - | https://www.linkedin.com/in/orhanobut | -
-Romain Guy | https://twitter.com/romainguy | https://plus.google.com/+RomainGuy/ | https://www.linkedin.com/in/romainguy | http://www.curious-creature.com/category/android/
+Romain Guy | https://twitter.com/romainguy | https://plus.google.com/+RomainGuy/ |  http://www.curious-creature.com/category/android/ | https://www.linkedin.com/in/romainguy | -
