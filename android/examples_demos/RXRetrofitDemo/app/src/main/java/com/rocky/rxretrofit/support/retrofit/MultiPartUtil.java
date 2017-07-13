@@ -46,7 +46,7 @@ public class MultiPartUtil {
     }
 
     /**
-     * @return RequestBody of given String
+     * @return RequestBody of given String.
      */
     public static RequestBody getMultipartString(String string) {
         return RequestBody.create(MediaType.parse("text/plain"), string);
