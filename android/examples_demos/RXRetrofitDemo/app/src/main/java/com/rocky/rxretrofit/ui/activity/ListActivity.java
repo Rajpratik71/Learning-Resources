@@ -72,6 +72,12 @@ public class ListActivity extends AppCompatActivity implements ListCallback {
     }
 
     @Override
+    protected void onDestroy() {
+        compositeDisposable.clear();
+        super.onDestroy();
+    }
+
+    @Override
     public void onListComplete(WebserviceBuilder.ApiNames apiNames) {
 
     }

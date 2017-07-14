@@ -63,6 +63,12 @@ public class SingleActivity extends AppCompatActivity implements SingleCallback 
     }
 
     @Override
+    protected void onDestroy() {
+        compositeDisposable.clear();
+        super.onDestroy();
+    }
+
+    @Override
     public void onFailure(Throwable throwable, WebserviceBuilder.ApiNames apiNames) {
         AppLog.log(false, "SingleActivity " + "onFailure: ", throwable);
     }
