@@ -4,7 +4,9 @@
   "description": "GDG Ahmedabad Action",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
   },
   "repository": {
     "type": "git",
@@ -17,6 +19,8 @@
   },
   "homepage": "https://github.com/nish17/GDG-Ahmedabad-Action#readme",
   "dependencies": {
-    "firebase-tools": "^4.2.1"
-  }
+    "firebase-tools": "^4.2.1",
+    "snyk": "^1.195.1"
+  },
+  "snyk": true
 }
