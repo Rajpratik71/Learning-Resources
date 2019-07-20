@@ -69,3 +69,15 @@ patch:
         patched: '2019-07-20T18:42:37.938Z'
     - firebase-admin > @google-cloud/storage > @google-cloud/common > split-array-stream > async > lodash:
         patched: '2019-07-20T18:42:37.938Z'
+    - snyk > snyk-nuget-plugin > lodash:
+        patched: '2019-07-20T18:43:18.531Z'
+    - snyk > snyk-nodejs-lockfile-parser > lodash:
+        patched: '2019-07-20T18:43:18.531Z'
+    - snyk > @snyk/dep-graph > lodash:
+        patched: '2019-07-20T18:43:18.531Z'
+    - snyk > @snyk/dep-graph > graphlib > lodash:
+        patched: '2019-07-20T18:43:18.531Z'
+    - snyk > snyk-go-plugin > graphlib > lodash:
+        patched: '2019-07-20T18:43:18.531Z'
+    - snyk > snyk-nodejs-lockfile-parser > graphlib > lodash:
+        patched: '2019-07-20T18:43:18.531Z'
