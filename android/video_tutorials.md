@@ -1,4 +1,5 @@
 - [Caster.io](https://caster.io/) - Android development video tutorials from Android GDEs. Contains both free and paid tutorials.
+- [Udacity.com](https://www.udacity.com/courses/android) - Android development course from Udacity and in collaboration with Google.
 - [TheNewBoston.com](https://thenewboston.com/videos.php?cat=278) - Android App Development - Beginners
 - [SlidesLive.com](https://slideslive.com/t/android) - SlidesLive - Professional Conference Recording
 - [Realm.io](https://news.realm.io/news/tags/android/) - Android videos from various conferences
