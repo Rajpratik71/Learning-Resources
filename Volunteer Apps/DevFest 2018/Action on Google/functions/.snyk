@@ -81,3 +81,12 @@ patch:
         patched: '2019-07-20T18:43:18.531Z'
     - snyk > snyk-nodejs-lockfile-parser > graphlib > lodash:
         patched: '2019-07-20T18:43:18.531Z'
+  SNYK-JS-HTTPSPROXYAGENT-469131:
+    - googleapis > google-auth-library > https-proxy-agent:
+        patched: '2019-10-03T23:29:36.289Z'
+    - snyk > proxy-agent > https-proxy-agent:
+        patched: '2019-10-03T23:29:36.289Z'
+    - googleapis > googleapis-common > google-auth-library > https-proxy-agent:
+        patched: '2019-10-03T23:29:36.289Z'
+    - snyk > proxy-agent > pac-proxy-agent > https-proxy-agent:
+        patched: '2019-10-03T23:29:36.289Z'
