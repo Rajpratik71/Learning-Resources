@@ -97,6 +97,16 @@ patch:
         patched: '2019-07-26T09:30:04.468Z'
     - firebase-tools > @google-cloud/functions-emulator > @google-cloud/storage > @google-cloud/common > google-auto-auth > async > lodash:
         patched: '2019-07-26T09:30:04.468Z'
+    - snyk > snyk-nuget-plugin > dotnet-deps-parser > lodash:
+        patched: '2019-10-07T10:28:06.478Z'
+    - snyk > @snyk/snyk-cocoapods-plugin > @snyk/dep-graph > lodash:
+        patched: '2019-10-07T10:28:06.478Z'
+    - snyk > @snyk/snyk-cocoapods-plugin > @snyk/cocoapods-lockfile-parser > @snyk/dep-graph > lodash:
+        patched: '2019-10-07T10:28:06.478Z'
+    - snyk > @snyk/snyk-cocoapods-plugin > @snyk/dep-graph > graphlib > lodash:
+        patched: '2019-10-07T10:28:06.478Z'
+    - snyk > @snyk/snyk-cocoapods-plugin > @snyk/cocoapods-lockfile-parser > @snyk/dep-graph > graphlib > lodash:
+        patched: '2019-10-07T10:28:06.478Z'
   'npm:lodash:20180130':
     - firebase-tools > @google-cloud/functions-emulator > cli-table2 > lodash:
         patched: '2019-07-20T18:43:22.733Z'
