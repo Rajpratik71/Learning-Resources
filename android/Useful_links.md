@@ -41,6 +41,9 @@
 - [Methods Count](http://www.methodscount.com/) - Android libraries are great, but they come at a cost. Use this tool to avoid the dreaded 65K method limit of the DEX file format!
 - [Android 9-patch shadow generator](http://inloop.github.io/shadow4android/) - Android 9-patch shadow generator fully customizable shadows
 - [Google Material design icons](https://design.google.com/icons/) - Material icons for both Light and Dark themes, downloaded as either SVGs or PNGs.
+- [feature-graphic-generator](http://www.norio.be/android-feature-graphic-generator/) - The Android Feature Graphic Generator allows you to easily create a simple yet attractive feature graphic for your Android application. It will generate a PNG image file according to Google's guidelines. Afterwards you can upload the image to the Google Play Developer Console to spice up the listing of your Android app. 
+- [Genymotion](https://www.genymotion.com/) - Genymotion is a fast and easy-to-use Android emulator to run and test your Android apps
+- [HTML Color Codes (tool)](http://html-color-codes.info/) - HTML Color Codes website provides free color tools for finding HTML colors, you can find color from image too.
 
 ### Android Studio Plugins
 - [adb-idea](https://github.com/pbreault/adb-idea) - A plugin for Android Studio and Intellij IDEA that speeds up your day to day android development.
