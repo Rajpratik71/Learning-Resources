@@ -8,6 +8,7 @@
 - [Android Best Practices](https://github.com/futurice/android-best-practices) - Repository which has listed best practices for Beginner Android Developer
 - [Import Java](http://importjava.org/) - Weekly Java & Android Newsletter
 - [CodePath](http://guides.codepath.com/android) - CodePath Android Cliffnotes
+- [Android Developer Blog](http://android-developers.blogspot.ae/) - Keep updated yourself with Official Android Developer Blog.
 
 ### Debug
 - [Stetho](http://facebook.github.io/stetho/#integrations) - A debug bridge for Android applications
