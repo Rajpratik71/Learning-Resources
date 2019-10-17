@@ -18,3 +18,7 @@ Link | Description | Author/Company
 [Python Data Structures](https://www.coursera.org/learn/python-data) | Core data structures of the Python programming language. | Coursera
 [Learn Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science) | Getting started with basic concepts of Python | DataCamp
 [Introduction to python and computing](http://spoken-tutorial.org/tutorial-search/?search_foss=Python&search_language=English) | Getting started with basic concepts of Python and statictics| Spoken tutorial IIT BOMBAY
+[A micro-web-framework of python _flask](http://flask.pocoo.org/)
+[Learning Python for Data Analysis and Visualization](https://www.udemy.com/learning-python-for-data-analysis-and-visualization/)
+[python programming quick look](https://www.udemy.com/python-programming-quick-look/learn/v4/content)
+
