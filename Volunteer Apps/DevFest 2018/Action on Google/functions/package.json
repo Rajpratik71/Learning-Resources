@@ -20,7 +20,7 @@
     "firebase-functions": "^2.0.3",
     "googleapis": "^34.0.0",
     "request": "^2.88.0",
-    "snyk": "^1.231.1"
+    "snyk": "^1.258.2"
   },
   "devDependencies": {
     "eslint": "^4.12.0",
