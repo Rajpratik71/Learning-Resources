@@ -20,7 +20,7 @@
   "homepage": "https://github.com/nish17/GDG-Ahmedabad-Action#readme",
   "dependencies": {
     "firebase-tools": "^4.2.1",
-    "snyk": "^1.231.1"
+    "snyk": "^1.258.2"
   },
   "snyk": true
 }
