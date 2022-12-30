@@ -11,7 +11,7 @@
     "start": "npm run shell",
     "deploy": "firebase deploy --only functions",
     "logs": "firebase functions:log",
-    "snyk-protect": "snyk protect",
+    "snyk-protect": "snyk-protect",
     "prepare": "npm run snyk-protect"
   },
   "dependencies": {
@@ -20,7 +20,7 @@
     "firebase-functions": "^3.6.2",
     "googleapis": "^49.0.0",
     "request": "^2.88.0",
-    "snyk": "^1.1064.0"
+    "@snyk/protect": "latest"
   },
   "devDependencies": {
     "eslint": "^4.12.0",
