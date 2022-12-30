@@ -1,5 +1,5 @@
 # Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
-version: v1.19.0
+version: v1.25.0
 ignore: {}
 # patches apply the minimum changes required to fix a vulnerability
 patch:
@@ -174,3 +174,5 @@ patch:
         patched: '2020-11-26T03:13:34.383Z'
     - snyk > snyk-go-plugin > graphlib > lodash:
         patched: '2020-11-26T03:13:34.383Z'
+    - firebase-admin > @google-cloud/firestore > google-gax > protobufjs-cli > jsdoc > catharsis > lodash:
+        patched: '2022-12-30T15:58:12.518Z'
